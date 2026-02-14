@@ -4,20 +4,15 @@
 
 This repository contains **desktop release builds only** for **Pi Dash – Linux Dashboard**.
 
-<img width="1925" height="1080" alt="image" src="https://github.com/user-attachments/assets/cd1bb70c-40cf-48c6-913b-3529ac6596e2" />
 
-## 
+<img width="2048" height="2732" alt="1" src="https://github.com/user-attachments/assets/5d18dd5b-abe9-4ee1-a107-ea7ffd20cf54" />
 
-**Docker Manager**
-<img width="1918" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8613582-8dc1-4373-944e-e62a4a60e894" />
+<img width="2048" height="2732" alt="2" src="https://github.com/user-attachments/assets/a341883f-77d6-4dc5-b24d-875ca1241fb9" />
+<img width="2048" height="2732" alt="3" src="https://github.com/user-attachments/assets/30c9330e-8f34-48b3-9af6-4571ee228d59" />
 
-## 
-**Task Manager**
-<img width="1931" height="1080" alt="image" src="https://github.com/user-attachments/assets/c65671da-7cbc-428f-963c-dcd9bfd22252" />
+---
 
-
-
-👉 **Android version (Play Store):**  
+**Android version (Play Store):**  
 https://play.google.com/store/apps/details?id=com.shubhobrataroy.pidash
 
 ---
